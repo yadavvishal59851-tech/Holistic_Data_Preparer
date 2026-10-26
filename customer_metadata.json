@@ -1,0 +1,23 @@
+[
+    {
+        "customer_id": "CUST00001",
+        "city": "Ahmedabad",
+        "account_type": "Savings",
+        "annual_income": 650000,
+        "loan_amount": 250000
+    },
+    {
+        "customer_id": "CUST00002",
+        "city": "Surat",
+        "account_type": "Current",
+        "annual_income": 820000,
+        "loan_amount": 400000
+    },
+    {
+        "customer_id": "CUST00003",
+        "city": "Rajkot",
+        "account_type": "Savings",
+        "annual_income": 480000,
+        "loan_amount": 150000
+    }
+]
